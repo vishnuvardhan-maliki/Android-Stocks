@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stock Market Search</string>
+    <string name="search_label">Stock Name/Symbol</string>
+    <string name="clear">CLEAR</string>
+    <string name="GET">GET QUOTE</string>
+    <string name="Fav">Favorites</string>
+    <string name="tab_text">current</string>
+    <string name="tab_text2">chart</string>
+    <string name="action_favorite">Add to favorite</string>
+    <string name="action_fb">Share to Facebook</string>
+</resources>
